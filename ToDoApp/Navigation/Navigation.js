@@ -17,8 +17,8 @@ const Navigation = () => {
           <Stack.Screen name="Splash" component={SplashWrapper} />
         <Stack.Screen name="Login"  component={LoginScreen} />
         <Stack.Screen name="Forgotpassword"  component={ForgotPassword} />
-        <Stack.Screen name='ProfileScreen' component={ProfileScreen}/>
         <Stack.Screen name='Singup'component={SignupScreen}/>
+        <Stack.Screen name='ProfileScreen' component={ProfileScreen}/>
         <Stack.Screen name="Home"  component={HomeScreen} />
         <Stack.Screen name="TaskManager" component={TaskManager} />
         
