@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822353637626",
+    "project_id": "todo-d0e76",
+    "storage_bucket": "todo-d0e76.firebasestorage.app",
+    "firebase_url": "https://todo-d0e76-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822353637626:android:410ad4d907ae17d5891943",
+        "android_client_info": {
+          "package_name": "com.taskify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkD2qidsR5KIqfEM0CdUtDk8qfgJQ5-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
